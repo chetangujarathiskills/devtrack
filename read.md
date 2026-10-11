@@ -18,3 +18,6 @@ From `issues/urls.py`:
 ## Notes
 
 This project is intended to help track issue reports and associated reporter information in a simple Django application.
+
+
+<img width="1062" height="892" alt="image" src="https://github.com/user-attachments/assets/6d675d20-1be1-4217-9df2-aaf13c11e75b" />
